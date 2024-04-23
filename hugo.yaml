@@ -1,0 +1,75 @@
+baseURL: https://jack.how/
+languageCode: en-us
+title: Jacks Stuff
+theme: ["PaperMod"]
+paginate: 5
+copyright: "© [Jack Wade](https://jack.how/)"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tags: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  description: "My Site where I store stuff"
+  author: Jack Wade
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "x"]
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+
+  homeInfoParams:
+    Title: "Jacks Stuff"
+    Content: >
+      This is my page where I write stuff and store stuff.
+
+      It's probably gonna be either computer stuff or recipes.
+
+      That's about it.
+
+  socialIcons:
+    - name: github
+      title: Check out my Github
+      url: "https://github.com/430am"
+    - name: x
+      title: I'm also on Twitter/X
+      url: "https://twitter.com/430inthemorning"
+    - name: linkedin
+      title: I have a day job
+      url: "https://linkedin/in/jackwade"

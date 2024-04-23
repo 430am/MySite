@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jacks Stuff</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jacks Stuff</description>
+    <generator>Hugo -- 0.125.2</generator>
+    <language>en</language>
+    <copyright>Jack Wade</copyright>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audit Storage Key Expiration Policy</title>
+      <link>http://localhost:1313/posts/audit-storage-key-expiration/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/audit-storage-key-expiration/</guid>
+      <description>I need to know if my Storage Access Keys have an Expiration Policy or not</description>
+    </item>
+    <item>
+      <title>Baked French Toast Casserole</title>
+      <link>http://localhost:1313/posts/baked-french-toast-casserole/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/baked-french-toast-casserole/</guid>
+      <description>Let&amp;rsquo;s make a super dope French Toast Casserole in the oven</description>
+    </item>
+    <item>
+      <title>One Pot Cajun Pasta Alfredo with Sausage and Chicken</title>
+      <link>http://localhost:1313/posts/cajun-pasta-with-chicken/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cajun-pasta-with-chicken/</guid>
+      <description>It&amp;rsquo;s yummy. You&amp;rsquo;ll like it.</description>
+    </item>
+    <item>
+      <title>One Pot Spaghetti alla Carbonara with Kale Greens</title>
+      <link>http://localhost:1313/posts/spaghetti-carbonara-with-kale/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/spaghetti-carbonara-with-kale/</guid>
+      <description>Let&amp;rsquo;s get your kids eating Kale</description>
+    </item>
+  </channel>
+</rss>
