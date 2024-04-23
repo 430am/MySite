@@ -1,9 +1,9 @@
-baseURL: https://jack.how/
+baseURL: https://430.one/
 languageCode: en-us
 title: Jacks Stuff
 theme: ["PaperMod"]
 paginate: 5
-copyright: "© [Jack Wade](https://jack.how/)"
+copyright: "© [Jack Wade](https://430.one/)"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
