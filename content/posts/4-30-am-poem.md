@@ -14,47 +14,47 @@ My favorite poem by Charles Bukowski comes from a collection of his early poems 
 
 ### 4:30 A.M.
 
-the fields rattle
-with red birds;
-it is 4:30 in
-the morning,
-it is always
-4:30 in the morning,
-and I listen for
-my friends:
-the garbagemen
-and the thieves,
-and cats dreaming
-red birds
-and red birds dreaming
-worms,
-and worms dreaming
-along the bones of
-my love,
-and I cannot sleep,
-and soon morning will come,
-the workers will rise,
-and they will look for me
-at the docks,
-and they will say,
-"he is drunk again,"
-but I will be asleep,
-finally,
-among the bottles and
-sunlight,
-all darkness gone,
-my arms spread like
-a cross,
-the red birds
-flying,
-flying,
-roses opening in the smoke,
-and
-like something stabbed and
-healing,
-like
-40 pages through a bad novel,
-a smile upon
+the fields rattle  
+with red birds;  
+it is 4:30 in  
+the morning,  
+it is always  
+4:30 in the morning,  
+and I listen for  
+my friends:  
+the garbagemen  
+and the thieves,  
+and cats dreaming  
+red birds  
+and red birds dreaming  
+worms,  
+and worms dreaming  
+along the bones of  
+my love,  
+and I cannot sleep,  
+and soon morning will come,  
+the workers will rise,  
+and they will look for me  
+at the docks,  
+and they will say,  
+"he is drunk again,"  
+but I will be asleep,  
+finally,  
+among the bottles and  
+sunlight,  
+all darkness gone,  
+my arms spread like  
+a cross,  
+the red birds  
+flying,  
+flying,  
+roses opening in the smoke,  
+and  
+like something stabbed and  
+healing,  
+like  
+40 pages through a bad novel,  
+a smile upon  
 my idiot's face
 
 ## the end
