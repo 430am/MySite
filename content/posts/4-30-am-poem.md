@@ -10,7 +10,7 @@ tags: ["Poems"]
 
 I don't love [Charles Bukowski](https://www.poetryfoundation.org/poets/charles-bukowski), but I love a lot of his poetry and what he wrote about. Some of it is inaccessible or hasn't aged very well. Some of it is beautiful and speaks to the problems of modern life - being poor, alcoholism, struggles maintaining relationships, how much work sucks.
 
-My favorite poem by Charles Bukowski comes from a collection of his early poems called ###The Roominghouse Madrigals###, published in 1988. It's called 4:30 A.M., and here it is:
+My favorite poem by Charles Bukowski comes from a collection of his early poems called ***The Roominghouse Madrigals***###***, published in 1988. It's called 4:30 A.M., and here it is:
 
 ### 4:30 A.M.
 
