@@ -3,7 +3,7 @@ title: "Audit Storage Key Expiration Policy"
 summary: I need to know if my Storage Access Keys have an Expiration Policy or not
 date: 2024-04-23
 aliases: ["/audit-storage-key-expiration"]
-tags: ["AzurePolicy", "CustomPolicy"]
+tags: ["AzurePolicy", "CustomPolicy", "Azure"]
 ---
 
 ## Azure Policy for Auditing for Storage Account Access Key Expirations
