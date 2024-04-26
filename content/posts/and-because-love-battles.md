@@ -111,15 +111,15 @@ de un amor verdadero.
 
 I especially love the seventh stanza which says:
 
-To bread I do not ask to teach me
-but only not to lack during every day of life.
-I don't know anything about light, from where
-it comes nor where it goes,
-I only want the light to light up,
-I do not ask to the night
-explanations,
-I wait for it and it envelops me,
-and so you, bread and light
+To bread I do not ask to teach me  
+but only not to lack during every day of life.  
+I don't know anything about light, from where  
+it comes nor where it goes,  
+I only want the light to light up,  
+I do not ask to the night  
+explanations,  
+I wait for it and it envelops me,  
+and so you, bread and light  
 and shadow are.
 
 It makes me happy in a way that I don't understand. The stanza is clear in its use of analogies for his love even though he doesn't understand completely why he loves. And it's beautiful.
