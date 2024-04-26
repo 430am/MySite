@@ -48,5 +48,6 @@ tags: ["Recipes"]
 7. Remove the foil, spread topping (see below) over the bread and bake for 45 minutes, until puffed and lightly golden. Serve with maple syrup if you desire.
 
 ### Topping Instructions
+
 1. Melt the butter
 2. In a medium bowl, combine the melted butter, brown sugar, maple syrup, cinammon, nutmeg, and cloves and whisk until blended.
